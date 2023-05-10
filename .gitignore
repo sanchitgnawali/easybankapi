@@ -44,4 +44,4 @@ build/
 
 
 #properties file
-#application.properties
+application.properties
